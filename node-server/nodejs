@@ -1,0 +1,1 @@
+signup.findOneAndUpdate({"username":id},{$set:update},{new:true},(err,doc)  -->return always new doc
