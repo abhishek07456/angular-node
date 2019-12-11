@@ -2,3 +2,5 @@ git remote add  v1 https://github.com/abhishek07456/angular-node-.git
 go to last commit --> git reset --hard HEAD
 add file in index -> git add .
 rm file to index  -> git rm filename
+
+https://github.com/joshnh/Git-Commands
